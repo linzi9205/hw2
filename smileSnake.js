@@ -14,5 +14,4 @@ function draw(){
   noFill();
   //ellipse(100,105,40,30);
   arc(mouseX, mouseY+5, 40, 30, 0, PI);
-  
 }
